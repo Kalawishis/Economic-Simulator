@@ -1,0 +1,43 @@
+IT APPEARS THAT SINCE YOU PUT GAME_THEORY INTO THE PATH, YOU CANNOT SHARE ANY MODULE NAMES
+IN THIS FOLDER WITH NAMES IN GAME_THEORY, SINCE GAME_THEORY WILL IMPORT OUTSIDE ITSELF
+
+FIND A BETTER WAY TO FORCE CONSUMER TO REDUCE CONSUMPTION OF A CERTAIN GOOD IF 
+OVERSUPPLY THAN JUST BAITING THEM WITH AN INFINITY PAYOFF
+
+COME UP WITH A SYSTEM TO TWEAK THE FACTORS OF PRODUCERS IN A MARKET WHEN DECISION
+IS BEING CHANGED, AND MAYBE EVEN IMPLEMENT A PRICE CHANGING SYSTEM
+
+FIND A WAY TO GET RID OF ILLEGAL (NEGATIVE INFINITY) STRATEGIES TO OPTIMIZE MARKET
+
+CONSIDER REPLACING INIFNITY WITH MANDATORY
+
+get working on competition and interactions between consumers and producers
+you are on the beginning of chapter 9
+
+
+hypothetical_1:
+
+budget: $1.5
+good 1: utility 5, price, $1, utility/price = 5
+good 2: utility 6, price, $1.5, utility/price = 4
+
+hypothetical_2:
+
+good 1: utility 5, price, $1, utility/price = 5
+good 2: utility 6, price, $2, utility/price = 3
+
+these hypotheticals show that you're going to have to include some sequential_game system in 
+Consumer and Producer (and Market?) if you want them to be intelligent and solve problems 
+like this. more layers of recursion, or more game layers, could mean a higher intelligence
+
+
+
+
+
+
+
+
+
+
+
+

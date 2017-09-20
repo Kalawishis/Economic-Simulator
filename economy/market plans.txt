@@ -1,0 +1,19 @@
+consumer utility function: x
+producer production function: sqrt(f)
+
+consumer demand function: i/p
+d(i, g) = i/g where i is budget and g is the good price
+
+2 consumers, so total demand function is 2i/g
+
+producer purchase function: purchases until (additional production * p) = cost of f
+in other words, when 1/(2*sqrt(x))*g = l
+p(l, g) = ? where l is the price of the factor and g is the good price
+p(l, g) = g^2/(4*l^2)
+
+producer production function is sqrt(g^2/(4*l^2))
+
+2 producers, so total production function is 2*sqrt(g^2/(4*l^2))
+
+according to wolfram alpha that is sqrt(g^2/l^2)
+when l is 1 total production is just g
